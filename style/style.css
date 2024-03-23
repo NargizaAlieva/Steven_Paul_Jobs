@@ -36,6 +36,11 @@
     border: solid 2px black;
   }
 
+  td:hover {
+    border-width: 3px;
+    background-color: rgb(202, 239, 254)
+  }
+
   #quote {
     padding: 0 40px;
     text-align: center;
