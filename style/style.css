@@ -1,0 +1,49 @@
+  body {
+    background-color: #D6EAF8;
+    margin: 50px;
+  }
+  
+  main {
+    width: 900px;
+    margin: 0 auto;
+    font-size: 24px;
+  }
+
+  h2 {
+    text-align: center;
+    color: rgb(100, 0, 100);
+  }
+
+  hr {
+    height: 3px;
+    color: blue;
+    background-color: blue;
+  }
+  
+  .main-photo {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border: 3px solid purple;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  td {
+    border: solid 2px black;
+  }
+
+  #quote {
+    padding: 0 40px;
+    text-align: center;
+    font-style: italic;
+    font-size: 34px;
+    color: rgb(65, 214, 115);
+  }
+
+  ol {
+    margin-left: 20px;
+  }
